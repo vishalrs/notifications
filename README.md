@@ -5,9 +5,9 @@ Assignment to create notification library using spring boot
 Product Development Co. is developing an efficient notification library. Requirement are as follows:
 
 Customers should be able to send messages using following channels:
-Mail
-SMS
-Chat
+-- Mail
+-- SMS
+-- Chat
 
 The co. offers two types of packages one for standard customers and the other for enterprise ones
 1. Standard Customers:
